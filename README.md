@@ -5,10 +5,10 @@ Scripts to create head models in fieldtrip
 
 Clone the repo
 
-	```bash
-	cd projects
-	git clone https://github.com/pchrapka/fieldtrip-head-models.git
-	```
+```bash
+cd projects
+git clone https://github.com/pchrapka/fieldtrip-head-models.git
+```
 
 Download the MRI data from Fieldtrip's site
 
